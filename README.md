@@ -47,7 +47,7 @@ Microsoft Entra ID et Microsoft Entra External ID font partis de la famille de p
 
 Un socle technique minimal est nécessaire à l’intégration de PSC avec Microsoft Entra ID et pour notamment permettre le respect des exigences techniques de raccordement.
 
-La mise en place de ce socle est optionnelle en fonction de l’existant de l’ES. Pour plus d'informations sur les prérequis technique de raccordement, voir le [socle technique minimal Microsoft Entra ID](PREREQUISITES). 
+La mise en place de ce socle est optionnelle en fonction de l’existant de l’ES. Pour plus d'informations sur les prérequis technique de raccordement, voir le [socle technique minimal Microsoft Entra ID](https://github.com/microsoft/prosanteconnect/blob/main/PREREQUISITES.md). 
 
 ## Activer les fonctionnalités de délégation d'authentification avec Microsoft Entra ID
 
