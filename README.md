@@ -65,7 +65,7 @@ Ce projet est ouvert aux contributions et aux suggestions. La plupart des contri
 
 Lorsque vous soumettez une demande d'extraction (Pull Request ou PR), un robot CLA déterminera automatiquement si vous devez fournir un CLA et décorera la PR de manière appropriée (par exemple, vérification de l'état, commentaire). Suivez simplement les instructions fournies par le robot. Vous n'aurez à le faire qu'une seule fois pour tous les dépôts utilisant notre CLA.
 
-Ce projet a adopté le [Code de conduite Microsoft Open Source] (https://opensource.microsoft.com/codeofconduct/).
+Ce projet a adopté le [Code de conduite Microsoft Open Source](https://opensource.microsoft.com/codeofconduct/).
 Pour plus d'informations, voir la [FAQ sur le code de conduite](https://opensource.microsoft.com/codeofconduct/faq/) ou contacter [opencode@microsoft.com](mailto:opencode@microsoft.com) pour toute question ou commentaire supplémentaire.
 
 # Mentions légales
