@@ -54,7 +54,7 @@ La mise en place de ce socle est optionnelle en fonction de l’existant de l’
 Afin de permettre l’activation des fonctionnalités de délégation d’authentification, les étapes de configurations techniques listés ci-dessous sont à réaliser et sont détaillés dans les liens proposés.
 
 1.	Partage des informations d’identification du locataire Microsoft Entra ID de l’ES. Pour plus d'informations, voir le [Guide de configuration de Pro Santé Connect à destination des établissements de santé](https://aka.ms/psc_int_entraid) ;
-2.	Configuration des moyens d'identification électroniques (MIE) autorisés. Pour plus d'informations, voir le [Guide de configuration des moyens d’identification électronique (MIE) et de la navigation sans couture à destination des établissements de santé](https://aka.ms/psc_mie_entraid) ; 
+2.	Configuration des moyens d'identification électroniques (MIE) autorisés. Pour plus d'informations, voir les [Moyens d’identification électronique (MIE) et la navigation sans couture à destination](https://aka.ms/psc_mie_entraid) ; 
 3.	Enregistrement de l’application PSC sur le locataire Microsoft Entra ID de l’ES. [PSC bac à sable](https://wallet.bas.psc.esante.gouv.fr/login-page), le portail de gestion utilisateur Bac à sable, est utilisé dans le cadre de ce POC. Pour plus d'informations, voir le [Guide de configuration de Pro Santé Connect à destination des établissements de santé](https://aka.ms/psc_int_entraid) ;
 4.	Configuration des stratégies d’accès conditionnelles. Pour plus d'informations, voir le [Guide de configuration de l’accès conditionnel à destination des établissements de santé](https://aka.ms/psc_ca_entraid) ;
 5.	Activation de la fonction sans couture pour les utilisateurs ;
