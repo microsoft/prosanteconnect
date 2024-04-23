@@ -40,7 +40,7 @@ La prise en charge de FIDO2 dans Windows Hello Entreprise offre une couche suppl
 
 Windows Hello Entreprise utilise une méthode d’authentification à deux facteurs qui combine des informations d’identification spécifiques à l’appareil avec un mouvement biométrique ou code PIN. Ces informations d’identification sont liées au lié au FI, ici Microsoft Entra ID ,dans le contexte de ce guide, et peuvent être utilisées pour accéder à PSC et à ses services.
 
-Les éléments de configuration pour Windows Hello Entreprise sont décrits dans le [Guide de configuration de Windows Hello Entreprise à destination des établissements de santé](https://aka.ms_whe_entraid). Nous invitons le lectorat à s’y reporter.  
+Les éléments de configuration pour Windows Hello Entreprise sont décrits dans le [Guide de configuration de Windows Hello Entreprise à destination des établissements de santé](https://aka.ms/psc_mie_whe_entraid). Nous invitons le lectorat à s’y reporter.  
 
 ## Non prise en charge de la e-CPS 
 

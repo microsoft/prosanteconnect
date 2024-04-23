@@ -15,9 +15,9 @@ Afin de gérer les moyens d’authentifications autorisés pour les PS :
 Cette page permet de configurer les différents moyens d’authentification du projet Pro Santé Connect sans couture à intégrer dans le cadre des POC technique raccordement vs. sécurisation
   
 C’est l’objet des guides suivants :
-•	[Guide de configuration des cartes CPx à destination des établissements de santé](https://aka.ms/psc_mie_cpx_entraid) ;
-•	[Guide de configuration des clés de sécurité FIDO2 à destination des établissements de santé](https://aka.ms/psc_mie_fido2_entraid) ;
-•	[Guide de configuration de Microsoft Authenticator à destination des établissements de santé](https://aka.ms/psc_mie_auth_entraid) ;
-•	[Guide de configuration de Windows Hello Entreprise à destination des établissements de santé](https://aka.ms/psc_mie_whe_entraid).
+* [Guide de configuration des cartes CPx à destination des établissements de santé](https://aka.ms/psc_mie_cpx_entraid) ;
+* [Guide de configuration des clés de sécurité FIDO2 à destination des établissements de santé](https://aka.ms/psc_mie_fido2_entraid) ;
+* [Guide de configuration de Microsoft Authenticator à destination des établissements de santé](https://aka.ms/psc_mie_auth_entraid) ;
+* [Guide de configuration de Windows Hello Entreprise à destination des établissements de santé](https://aka.ms/psc_mie_whe_entraid).
 
 Nous invitons le lectorat à s’y reporter.
