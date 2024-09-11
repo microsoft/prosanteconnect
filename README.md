@@ -1,8 +1,8 @@
 # Mise en oeuvre de Pro Santé Connect (PSC) avec Microsoft Entra ID
 
-Ce projet décrit comment les modalités d'intégration de Pro Santé Connect (PSC) pour le mode sans couture avec [Microsoft Entra ID](https://www.microsoft.com/fr-fr/security/business/identity-access/microsoft-entra-id), anciennement Azure Active Directory (Azure AD). 
+ **Ce projet est en cours d'élaboration** dans le cadre d’une première expérimentation. Il vient compléter à ce titre la documentation officielle de l'[Agence du Numérique en Santé](https://esante.gouv.fr/lagence) (ANS) relative à l'intégration de PSC pour le mode sans couture et la délégation à un [fournisseur d'identité local](https://industriels.esante.gouv.fr/produits-et-services/pro-sante-connect/delegation-un-fournisseur-d-identite-local).
 
-**Ce projet est en cours d'élaboration** dans le cadre d’une première expérimentation. Il vient compléter à ce titre la documentation officielle de l'[Agence du Numérique en Santé](https://esante.gouv.fr/lagence) (ANS) relative à l'intégration de PSC pour le mode sans couture.
+ Ce projet décrit dans ce contexte de délégation les modalités d'intégration de Pro Santé Connect (PSC) avec [Microsoft Entra ID](https://www.microsoft.com/fr-fr/security/business/identity-access/microsoft-entra-id), anciennement Azure Active Directory (Azure AD). Il propose des guides et des ressources pour activer les fonctionnalités de délégation d' avec Microsoft Entra ID. Microsoft Entra ID fait partie de la [liste des fournisseurs d'identité déjà supportés par PSC](https://industriels.esante.gouv.fr/produits-et-services/pro-sante-connect/documentation-technique-idp-externe).
 
 ## A propos de Pro Santé Connect (PSC)
 

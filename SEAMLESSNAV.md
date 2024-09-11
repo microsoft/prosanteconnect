@@ -18,9 +18,17 @@ La délégation de l’authentification à Microsoft Entra ID est décrite dans 
 
 Une fois celle-ci en place, en termes de parcours utilisateurs, lorsqu’un professionnel de Santé (PS) accède à ce service numérique (SN) depuis son navigateur, ce dernier est renvoyé vers PSC qui le redirige alors de façon transparente vers Microsoft Entra ID. 
 
-L’application de test permet de lancer cette cinématique en cliquant sur le bouton **S’identifier avec EntraID**. 
+L’application de test permet de lancer cette cinématique en :
 
-![S’identifier avec EntraID](./imgs/mire.png) 
+1.	Cliquant sur le bouton **S’identifier avec PRO SANTE CONNECT**.
+
+![S’identifier avec PRO SANTE CONNECT](./imgs/mire.png) 
+
+2.	Sélectionnant **Entra ID** dans l’onglet **Délégation**.
+
+![Entra ID](./imgs/delegate.png) 
+
+3.	Cliquant sur le bouton **SE CONNECTER VIA UN FOURNISSEUR D’IDENTITE**. 
  
 ## Première authentification (appairage)
 
