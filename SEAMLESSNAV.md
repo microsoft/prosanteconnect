@@ -46,7 +46,7 @@ A ce stade, lors d’une première authentification, le PS n’accède pas direc
 
 ![Appairage du compte](./imgs/binding.png) 
  
-Si le PS confirme sa volonté de continuer en cliquant sur **Appairer un compte avec la carte CPS**, il est ensuite invité à utiliser sa carte CPX ou e-CPS. Une fois l’appairage réalisé, la mire précédente n’est plus affichée dans le parcours sans couture.
+Si le PS confirme sa volonté de continuer en cliquant sur **APPAIRER UN COMPTE AVEC LA CARTE CPS**, il est ensuite invité à utiliser sa carte CPX (ou l'application e-CPS via l'autre onglet présent). Une fois l’appairage réalisé, la mire précédente n’est plus affichée dans le parcours sans couture.
 
 Seule est alors nécessaire de confirmer la validation de connexion.
 
@@ -56,7 +56,7 @@ Seule est alors nécessaire de confirmer la validation de connexion.
 
 ![Connexion PSC](./imgs/connexion.png) 
  
-Après avoir cliqué sur **Confirmer**, le PS accède au portail de gestion PSC BAS. 
+Après avoir cliqué sur le bouton **Confirmer**, le PS accède au portail de gestion PSC BAS. 
  
 ## Authentification depuis l’ouverture de session d’un appareil Windows
 

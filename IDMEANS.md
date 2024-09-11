@@ -22,7 +22,7 @@ L’authentification [FIDO2](https://fidoalliance.org/) ou Fast ID Online v2.0 e
 
 Le POC technique sécurisation cible plus spécifiquement cette utilisation. Dans ce cadre, la fourniture d’une clé de sécurité FIDO2 est à la charge de l’ES.
 
-**Le POC technique et les retours terrain et métier permettront d’affiner les exigences quant à la définition d’un MIE 2FA conforme de type clé FIDO2.**
+**Le POC technique et les retours terrain et métier permettront d’affiner les exigences quant à la définition d’un MIE 2FA conforme de type clé FIDO2.** Les travaux en cours sur la prise en charge de FIDO2 peuvent être suivis [ici](https://industriels.esante.gouv.fr/produits-et-services/pro-sante-connect/travaux-en-cours#paragraph-id--6413).
 
 Les éléments de configuration pour les clés de sécurité FIDO2 sont décrits dans le [Guide de configuration des clés de sécurité FIDO2 à destination des établissements de santé](https://aka.ms/psc_mie_fido2_entraid). Nous invitons le lectorat à s’y reporter.  
 
