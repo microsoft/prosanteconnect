@@ -12,7 +12,7 @@ Afin de gérer les moyens d’authentifications autorisés pour les PS :
 1.	Depuis un navigateur, aller sur le Centre d’administration Microsoft Entra à l’adresse Internet https://entra.microsoft.com, puis sur la vue d’ensemble Identité de Microsoft Entra ID. L’adresse https://entra.microsoft.com/#view/Microsoft_AAD_IAM/TenantOverview.ReactView peut être utilisée pour un accès direct.
 2.	Se diriger dans l’onglet **Protection** > **Méthodes d’authentification** > **Stratégies**.
 
-Cette page permet de configurer les différents moyens d’authentification du projet Pro Santé Connect sans couture à intégrer dans le cadre des POC technique raccordement vs. sécurisation
+Cette page permet de configurer les différents moyens d’authentification du projet Pro Santé Connect sans couture à intégrer.
   
 C’est l’objet des guides suivants :
 * [Guide de configuration des cartes CPx à destination des établissements de santé](https://aka.ms/psc_mie_cpx_entraid) ;

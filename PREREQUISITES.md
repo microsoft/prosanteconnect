@@ -24,7 +24,7 @@ Si nécessaire, créer un locataire gratuitement : https://azure.microsoft.com/f
 
 ## Déclaration des comptes des PS dans Microsoft Entra ID
 
-Dans le cadre du POC technique, l’identification d’un point de contact au sein de l’ES et des tous premiers utilisateurs est nécessaire.
+Dans le cadre de la mise en oeuvre technique, l’identification d’un point de contact au sein de l’ES et des tous premiers utilisateurs est nécessaire.
 
 Pour l'activation de la fonction sans couture pour les utilisateurs, il est recommandé d’expérimenter le comportement sur dans l’ES au sein d’un sous ensemble d’utilisateurs sélectionnés afin de limiter de potentielles perturbation et donc l’identification plus largement de la population de test est nécessaire. 
 

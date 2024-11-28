@@ -10,19 +10,15 @@ Les sections suivantes proposent des informations sur la prise en charge des MIE
 
 Un PS peut utiliser le certificat X.509 de sa [carte de professionnel de santé](https://industriels.esante.gouv.fr/produits-services/cps-et-socle-technique/caracteristiques-de-la-cps3), ou carte CPx pour s’authentifier sur son locataire Entra ID et ainsi accéder à des services numériques connectés à PSC sans avoir besoin de se réauthentifier. 
 
-Le POC technique raccordement cible plus spécifiquement cette utilisation.
-
 Les éléments de configuration pour les cartes CPx physiques sont décrits dans le [Guide de configuration des cartes CPx à destination des établissements de santé](https://aka.ms/psc_mie_cpx_entraid). Nous invitons le lectorat à s’y reporter.  
 
 ### Utilisation d’une clé de sécurité FIDO2
 
 De la même façon, un PS peut utiliser une clé de sécurité FIDO2. 
 
-L’authentification [FIDO2](https://fidoalliance.org/) ou Fast ID Online v2.0 est un standard ouvert pour l’authentification sans mot de pass. Il permet aux PS et autres utilisateurs de se connecter à leurs appareils et applications à l’aide de l’authentification biométrique ou d’une clé de sécurité physique, sans avoir besoin d’un mot de passe traditionnel.
+L’authentification [FIDO2](https://fidoalliance.org/) ou Fast ID Online v2.0 est un standard ouvert pour l’authentification sans mot de pass. Il permet aux PS et autres utilisateurs de se connecter à leurs appareils et applications à l’aide de l’authentification biométrique ou d’une clé de sécurité physique, sans avoir besoin d’un mot de passe traditionnel. Dans ce cadre, la fourniture d’une clé de sécurité FIDO2 est à la charge de l’ES.
 
-Le POC technique sécurisation cible plus spécifiquement cette utilisation. Dans ce cadre, la fourniture d’une clé de sécurité FIDO2 est à la charge de l’ES.
-
-**Le POC technique et les retours terrain et métier permettront d’affiner les exigences quant à la définition d’un MIE 2FA conforme de type clé FIDO2.** Les travaux en cours sur la prise en charge de FIDO2 peuvent être suivis [ici](https://industriels.esante.gouv.fr/produits-et-services/pro-sante-connect/travaux-en-cours#paragraph-id--6413).
+**Les travaux en cours sur la prise en charge de FIDO2 et de futurs retours terrain et métier permettront d’affiner les exigences quant à la définition d’un MIE 2FA conforme de type clé FIDO2.** Ces travaux peuvent être suivis [ici](https://industriels.esante.gouv.fr/produits-et-services/pro-sante-connect/travaux-en-cours#paragraph-id--6413).
 
 Les éléments de configuration pour les clés de sécurité FIDO2 sont décrits dans le [Guide de configuration des clés de sécurité FIDO2 à destination des établissements de santé](https://aka.ms/psc_mie_fido2_entraid). Nous invitons le lectorat à s’y reporter.  
 
@@ -64,7 +60,7 @@ Pour plus d'informations, voir l'[expérience Pro Santé Connect sans couture](.
 
 ## Axes d’extensibilité futurs prévisibles
 
-L’intégration courante de PSC avec Microsoft Entra ID telle que décrite dans ses modalités opérationnelles dans le cadre de cette expérimentation vise à établir une fondation technique pérenne qui pourra être étendue tant d’un point de vue fonctionnel que technique afin de répondre aux attentes exprimées par les ES et PS.   
+L’intégration courante de PSC avec Microsoft Entra ID telle que décrite dans ses modalités opérationnelles vise à établir une fondation technique pérenne qui pourra être étendue tant d’un point de vue fonctionnel que technique afin de répondre aux attentes exprimées par les ES et PS.   
 
 Ainsi, l’ouverture de session et la capacité de navigation sans couture résultante pourront être étendues par la suite après qualification et validation. Ainsi, par exemple, l’ouverture de session avec Microsoft Entra ID pourra être effectuée depuis une session de terminal Windows à distance avec les fonctionnalités proposées par [Microsoft Entra Private Access](https://www.microsoft.com/security/business/identity-access/microsoft-entra-private-access), un produit de type ZTNA (Zero Trust Network Access) centré sur l'identité, pour l’intégration étendue avec les environnements existants en local.  
 
