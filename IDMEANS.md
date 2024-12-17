@@ -22,7 +22,7 @@ L’authentification [FIDO2](https://fidoalliance.org/) ou Fast ID Online v2.0 e
 
 Les éléments de configuration pour les clés de sécurité FIDO2 sont décrits dans le [Guide de configuration des clés de sécurité FIDO2 à destination des établissements de santé](https://aka.ms/psc_mie_fido2_entraid). Nous invitons le lectorat à s’y reporter.  
 
-### Utilisation de Microsoft Authenticator
+### Utilisation de Microsoft Authenticator et d'une clé d'accès
 
 L’application [Microsoft Authenticator](https://www.microsoft.com/fr-fr/security/mobile-authenticator-app) peut être utilisée dans ce contexte comme MIE 2FA conforme avec les [clés d'accès (passkeys)](https://www.microsoft.com/security/business/security-101/what-is-passkey) désormais en disponibilité générale (GA).
 
