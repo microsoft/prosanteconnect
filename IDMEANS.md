@@ -24,9 +24,11 @@ Les éléments de configuration pour les clés de sécurité FIDO2 sont décrits
 
 ### Utilisation de Microsoft Authenticator
 
-L’application [Microsoft Authenticator](https://www.microsoft.com/fr-fr/security/mobile-authenticator-app) peut être utilisée dans ce contexte comme MIE 2FA conforme.
+L’application [Microsoft Authenticator](https://www.microsoft.com/fr-fr/security/mobile-authenticator-app) peut être utilisée dans ce contexte comme MIE 2FA conforme avec les [clés d'accès (passkeys)](https://www.microsoft.com/security/business/security-101/what-is-passkey) désormais en disponibilité générale (GA).
 
-Les éléments de configuration pour Microsoft Authenticator sont décrits dans le [Guide de configuration de Microsoft Authenticator à destination des établissements de santé](https://aka.ms/psc_mie_auth_entraid). Nous invitons le lectorat à s’y reporter.  
+Les clés d’accès offrent non seulement une expérience utilisateur (UX) améliorée en vous permettant de se connecter plus rapidement avec son visage, son empreinte digitale ou son code PIN, mais elles ne sont pas non plus susceptibles d’être exposées aux mêmes types d’attaques que les mots de passe. De plus, les clés d’accès éliminent les mots de passe oubliés et les codes à usage unique et réduisent les appels d’assistance.
+
+Les éléments de configuration pour Microsoft Authenticator et les clés d'accès sont décrits dans le [Guide de configuration de Microsoft Authenticator et des clés d'accès à destination des établissements de santé](https://aka.ms/psc_mie_auth_entraid). Nous invitons le lectorat à s’y reporter.  
 
 ### Utilisation de Windows Hello Entreprise
 

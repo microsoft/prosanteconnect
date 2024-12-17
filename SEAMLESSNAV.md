@@ -12,7 +12,7 @@ Pour fluidifier la navigation, une fédération/délégation peut être ainsi mi
  
 Dans l'environnement de Bac à sable Pro Santé Connect, l’application de test PSC_BAS, c.à.d. le portail de gestion des utilisateurs Bac à sable est mise à disposition à cette fin ; elle est accessible à l’adresse Internet https://wallet.bas.psc.esante.gouv.fr/login-page.
 
-Un premier niveau de mise en oeuvre technique incluant le raccordement et la sécurisation avec Microsoft Entra ID vise à assoir la validité technique de la solution proposée dans le cadre de PSC sans couture, et de recueillir des retours qui auront pour vocation à permettre les évolutions et améliorations de la solution.
+Cette mise en oeuvre incluant le raccordement et la sécurisation avec Microsoft Entra ID a permis d'assoir la validité technique de la délégation à un fournisseur d'identité local proposée dans le cadre de PSC sans couture, et de recueillir des retours avec pour vocation de permettre de futures évolutions et améliorations de la solution proposée aujourd'hui.
 
 La délégation de l’authentification à Microsoft Entra ID est décrite dans le Guide de configuration de Pro Santé Connect à destination des établissements de santé. Elle suppose une approbation préalable de l’application PSC_BAS dans le locataire Entra ID de l’ES retenu pour cette délégation.
 

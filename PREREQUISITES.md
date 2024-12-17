@@ -50,7 +50,7 @@ La synchronisation d'annuaire permet de synchroniser les données d'identité d�
 
 Microsoft met à disposition pour cela l'application Microsoft Entra Connect ainsi que la synchronisation cloud Microsoft Entra Connect pour aider les organisations à atteindre leurs objectifs d'identité hybride en matière de synchronisation des utilisateurs, des groupes et des contacts avec Microsoft Entra ID. La synchronisation cloud Microsoft Entra Connect utilise l'agent de provisionnement cloud Microsoft Entra au lieu de l'application Microsoft Entra Connect.
 
-La mise en place de la synchronisation dépasse le cadre et les objectifs du POC techniques. 
+La mise en place de la synchronisation dépasse le cadre et les objectifs de la mise en ouevre à proprement parler de la délégation à Microsoft Entra ID. 
 
 Pour plus d'informations, voir les articles suivants de la documentation sur Microsoft Learn : 
 *   [Microsoft Entra Connect](https://learn.microsoft.com/fr-fr/entra/architecture/sync-directory) ;
