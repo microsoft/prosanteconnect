@@ -69,7 +69,7 @@ Afin de permettre l’activation des fonctionnalités de délégation d’authen
 
 ## En savoir plus sur Microsoft Entra
 
-Prévenir les attaques d’identité, garantir un accès à moindre privilège, unifier les contrôles d’accès et améliorer l’expérience des utilisateurs, qu'il s'agisse des PS, du personnel administratif et de direction, et des autres personnels d'un ES - grâce à des solutions complètes d’identité et d’accès au réseau sur site et dans les clouds.  
+Prévenir les attaques d’identité, garantir un accès à moindre privilège, unifier les contrôles d’accès et améliorer l’expérience des utilisateurs, qu'il s'agisse des PS, du personnel administratif et de direction, et des autres personnels d'un ES, grâce à des solutions complètes d’identité et d’accès au réseau sur site et dans les clouds.  
 
 *	[Actualités et perspectives sur Microsoft Entra | Blog sur la sécurité Microsoft](https://www.microsoft.com/fr-fr/security/blog/products/microsoft-entra/)
 *	[Blog Microsoft Entra | Communauté technologique](https://techcommunity.microsoft.com/t5/microsoft-entra-blog/bg-p/Identity) 
