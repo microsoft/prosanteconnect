@@ -67,6 +67,15 @@ Afin de permettre l’activation des fonctionnalités de délégation d’authen
 4.	Configuration des stratégies d’accès conditionnelles. Pour plus d'informations, voir le [Guide de configuration de l’accès conditionnel à destination des établissements de santé](https://aka.ms/psc_ca_entraid) et l'[Atelier compagnon de l'accès conditionnel](https://aka.ms/psc_ca2_entraid) ;
 5.	Activation de la fonction sans couture pour les utilisateurs ;
 
+## En savoir plus sur Microsoft Entra
+
+Prévenir les attaques d’identité, garantir un accès à moindre privilège, unifier les contrôles d’accès et améliorer l’expérience des utilisateurs, qu'il s'agisse des PS, du personnel administratif et de direction, et des autres personnels d'un ES - grâce à des solutions complètes d’identité et d’accès au réseau sur site et dans les clouds.  
+
+*	[Actualités et perspectives sur Microsoft Entra | Blog sur la sécurité Microsoft](https://www.microsoft.com/fr-fr/security/blog/products/microsoft-entra/)
+*	[Blog Microsoft Entra | Communauté technologique](https://techcommunity.microsoft.com/t5/microsoft-entra-blog/bg-p/Identity) 
+*	[Documentation sur Microsoft Entra | Microsoft Learn](https://learn.microsoft.com/fr-fr/entra/) 
+*	[Discussions sur Microsoft Entra | Communauté Microsoft](https://techcommunity.microsoft.com/t5/microsoft-entra/bd-p/Azure-Active-Directory)
+
 # Contribuer
 
 Ce projet est ouvert aux contributions et aux suggestions. La plupart des contributions nécessitent que vous acceptiez un contrat de licence de contributeur (Contributor License Agreement ou CLA) déclarant que vous avez le droit de nous accorder les droits d'utilisation de votre contribution et que vous le faites effectivement. Pour plus de détails, consultez le site https://cla.opensource.microsoft.com.
