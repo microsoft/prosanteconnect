@@ -50,6 +50,7 @@ Au-delà de [Microsoft Entra ID](https://www.microsoft.com/security/business/ide
 *   [Microsoft Entra Private Access](https://www.microsoft.com/security/business/identity-access/microsoft-entra-private-access), un produit de type ZTNA (Zero Trust Network Access) centré sur l'identité. 
 
 Cette solution rend la gestion des identités et des accès (IAM) plus facile que jamais afin de fournir uniquement l'accès nécessaire grâce à des autorisations adaptées, à la gestion du cycle de vie des accès et à l'accès au moindre privilège pour toutes les identités internes et externes des organisation considérées.
+Vous pouvez découvrir ces différents produits dans cette série de courtes vidéos [Microsoft Mechanics](https://aka.ms/EntraSuiteMechanics).
 
 ## Disposer du socle technique nécessaire avec Microsoft Entra ID
 
