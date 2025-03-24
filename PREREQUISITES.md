@@ -8,7 +8,7 @@ La mise en place de ce socle est optionnelle en fonction de l’existant de l’
 
 Les éléments décrits ci-après pour le volet Microsoft Entra ID ne soustraient pas l’ES à la responsabilité qu’il a de s’assurer des bonnes pratiques de sécurité quant à l’administration et la maintenance qu’il opère et dont il a la resposanbilité sur son locataire Entra ID. Comme indiqué par l'ANS, l’ES est responsable du respect des exigences liés aux usages de fédération d’identité avec PSC et doit s’assurer de la bonne configuration et bonne gestion de son locataire Entra ID.
 
-Le volet MIE est couvert dans le [Guide de configuration des moyens d’identification électronique (MIE) et de la navigation sans couture à destination des établissements de santé](https://aka.ms/psc_mie_entraid) proposé dans le cadre de ce projet.
+Le volet MIE est couvert dans la [configuration des méthodes d'authentification pour les moyens d’identification électronique (MIE) approuvés](https://github.com/microsoft/prosanteconnect/blob/main/AUTHMETHODS.md) proposée dans le cadre de ce projet.
 
 ##	Création d’un locataire Microsoft Entra ID  
 
@@ -36,9 +36,9 @@ Des comptes utilisateur doivent être disponibles pour les PS futurs bénéficia
 
 **Prérequis :** Des utilisateurs test (non-administrateur) pour les PS permettent de vérifier que les éléments d’intégration décrits dans le présent document sont opérationnels et que les stratégies d’accès conditionnels envisagées dans ce contexte fonctionnent comme prévu avant le déploiement vers des utilisateurs réels, ici des PS. 
 
-Si des utilisateurs test doivent être créés, consulter : https://learn.microsoft.com/fr-fr/entra/fundamentals/add-users.
+Si des utilisateurs test doivent être créés, consulter l'article [Comment créer, inviter et supprimer des utilisateurs](https://learn.microsoft.com/fr-fr/entra/fundamentals/add-users) de la documentation sur Microsoft Learn.
 
-L’utilisateur d’un groupe dont l’utilisateur non-administrateur est membre est vivement conseillée. Si un tel groupe doit être créé, consulter : https://learn.microsoft.com/fr-fr/entra/fundamentals/how-to-manage-groups.
+L’utilisateur d’un groupe dont l’utilisateur non-administrateur est membre est vivement conseillée. Si un tel groupe doit être créé, consulter l'article [Gérer des groupes Microsoft Entra et l’appartenance aux groupes](https://learn.microsoft.com/fr-fr/entra/fundamentals/how-to-manage-groups) de cette même documentation.
 
 **Recommandation :** Nous préconisons de limiter les premiers tests aux équipes techniques de la DSI de l’ES et à un faible nombre de PS pour recueillir des retours terrain et métier sur les cinématiques et l’expérience utilisateur (UX).
 
@@ -58,7 +58,7 @@ Pour plus d'informations, voir les articles suivants de la documentation sur Mic
 
 ## Jointure des appareils Windows avec Microsoft Entra ID
 
-Un appareil joint à Microsoft Entra ID permet d’offrir une navigation sans couture dès l’ouverture de session. Les prérequis pour la mise en place de ces éléments ne font pas partie du cadre minimum défini par l’ANS mais sont partagés dans le cadre de ce projet au travers du [Guide de configuration des moyens d’identification électronique (MIE) et de la navigation sans couture à destination des établissements de santé](https://aka.ms/psc_mie_entraid). 
+Un appareil joint à Microsoft Entra ID permet d’offrir une [navigation sans couture dès l’ouverture de session](https://github.com/microsoft/prosanteconnect/blob/main/SEAMLESSNAV.md). Les prérequis pour la mise en place de ces éléments ne font pas partie du cadre minimum défini par l’ANS mais sont partagés dans le cadre de ce projet au travers de la [configuration des méthodes d'authentification pour les moyens d’identification électronique (MIE) approuvés](https://github.com/microsoft/prosanteconnect/blob/main/AUTHMETHODS.md). 
 
 Un appareil joint à Microsoft Entra ID permet en outre de bénéficier de stratégies d'accès conditionnel prenant en compte l'identité de l'appareil. En utilisant les informations sur les appareils, il est ainsi possible de mettre en place des contrôles pour toujours vérifier l'identité de l'utilisateur et de l’appareil. Ceci permet de réduire les risques liés aux sessions utilisateurs et s'inscrit dans les principes de Zero Trust qui prône notamment une vérification constante. 
 
